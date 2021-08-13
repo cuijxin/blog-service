@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/cuijxin/blog-service/internal/routes/api/v1/tag"
+	"github.com/cuijxin/blog-service/internal/routers/api/v1/tag"
 	"github.com/gin-gonic/gin"
 )
 
